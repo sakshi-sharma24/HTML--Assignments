@@ -1,0 +1,106 @@
+@charset "UTF-8";
+body
+{
+   background-color:white;
+}	
+h1
+{
+	margin:0;
+    text-decoration:underline;	
+}
+div
+{
+	padding-top:60px;
+}
+ .top-bottom-padding
+ {
+	 padding-bottom:20px;
+	 padding-top:20px;
+ }
+/*adding the hover effect to the rover */ 
+tr:hover
+{
+	background-color:#f4ad42;
+}
+
+
+header{
+	
+	text-align:top-left;
+	font-family:Cambria;
+	color:black;
+	padding-bottom:30px;
+	}
+	
+header
+{
+		overflow:hidden;
+}
+.float-right
+ {
+    float:right;
+	margin:0;
+ }
+
+	section
+	{
+		padding:5px;
+	}
+	
+#candidate-name
+{
+	font-size:22px;
+}
+
+p 
+{
+	margin:0;
+    color:black;
+	font-size:15px;
+	font-family:Cambria;
+	
+    
+}
+ span
+ {
+	 margin-bottom:0px;
+	 margin-top:0px;
+	 padding-bottom:20px;
+	 padding-top:20px;
+ }
+ 
+ 
+p span
+{
+	margin-top:0px;
+	margin-bottom:0px;
+	color:black;
+	display:block;
+	padding-bottom:20px;
+	padding-top:20px;
+}
+table, th, td {
+   border: 1px solid black;
+}
+td { 
+    text-align:center;
+    padding: 0px;
+}
+table
+ {
+    margin:0;
+    border-spacing: 0px;
+    border-collapse: separate;
+}
+h4
+{
+	margin:0;
+	background-color:#c0c0c0;
+    text-decoration:underline;	
+}
+
+.no-bottom-top-margin
+{
+	margin-bottom:0px;
+    margin-top:0px;
+}
